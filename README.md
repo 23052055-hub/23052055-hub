@@ -1,103 +1,81 @@
 <div align="center">
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F7F4EE&height=20&section=header"/>
+
+<br>
+
 # AKKSHITA ISA
 
-### AI ENGINEER · AGENTIC AI · ML SYSTEMS
+### `AI ENGINEER` &nbsp;·&nbsp; `AGENTIC AI` &nbsp;·&nbsp; `ML SYSTEMS`
 
-*Building AI systems that are useful, measurable, and reliable.*
+<p>
+Building AI systems that are <b>useful, measurable, and reliable.</b>
+</p>
 
 <br>
 
-**WORK**　·　**EXPERIENCE**　·　**CONTACT**
+[![Status](https://img.shields.io/badge/OPEN_TO-AI%20%26%20ML%20ROLES-111827?style=flat-square)](mailto:hello@example.com)
+[![Focus](https://img.shields.io/badge/FOCUS-AGENTIC%20AI-7C3AED?style=flat-square)](#)
+[![Systems](https://img.shields.io/badge/SYSTEMS-PYTHON%20%2B%20LLMs-0EA5A4?style=flat-square)](#)
+
+<br>
+
+`BUILD`　·　`SOLVE`　·　`IMPACT`
+
+<br>
 
 </div>
 
 ---
 
-## SELECTED WORK
-
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="65%" valign="top">
 
-### EMBASSY
+# Hello, I'm Akkshita.
 
-**Policy infrastructure for autonomous AI agents.**
+I design and build **AI systems that move beyond demos** — systems that can reason, retrieve context, make decisions, execute actions, and verify their own outputs.
 
-<br>
+My current work sits at the intersection of:
 
-`AGENT` → `POLICY` → `RISK` → `APPROVAL` → `EXECUTION`
-
-<br>
-
-`Next.js`　`TypeScript`　`Prava`
-
----
-
-### 340ms
-
-**POLICY EVALUATION LATENCY**
+**Agentic AI · LLM Systems · Computer Vision · ML Infrastructure**
 
 <br>
 
-[**VIEW PROJECT →**](https://github.com/Akkshita06)
+> *The interesting part of AI isn't making a model answer.*
+>
+> *It's making the entire system trustworthy enough to act.*
 
 </td>
 
-<td width="33%" valign="top">
+<td width="35%" valign="top">
 
-### AUTOAUDIT
+### CURRENTLY
 
-**An AI agent that finds, prioritizes and explains technical issues.**
+🟢 **Building**
 
-<br>
-
-**127**  
-Issues Found
-
-**↑ 42%**
+Agent orchestration systems
 
 <br>
 
-`Python`　`RAG`　`FastAPI`
+🧠 **Exploring**
 
----
-
-### 92%
-
-**ISSUES EXPLAINED WITH CONTEXT**
+LLM evaluation & reasoning
 
 <br>
 
-[**VIEW PROJECT →**](https://github.com/Akkshita06)
+⚙️ **Working with**
 
-</td>
-
-<td width="33%" valign="top">
-
-### DROWSYGUARD
-
-**Real-time computer vision for drowsiness detection.**
+Python · FastAPI · PyTorch
 
 <br>
 
-**EAR 0.21**  
-`DROWSY`
+🌏 **Based in**
 
-<br>
-
-`Python`　`OpenCV`　`PyTorch`
-
----
-
-### 96%
-
-**DETECTION ACCURACY**
-
-<br>
-
-[**VIEW PROJECT →**](https://github.com/Akkshita06)
+Bhubaneswar, India
 
 </td>
 
@@ -106,70 +84,42 @@ Issues Found
 
 ---
 
-# PROOF
+# SELECTED WORK
+
+### 01 / POLICY INFRASTRUCTURE
 
 <table>
 <tr>
 
-<td width="25%" valign="top">
+<td width="62%" valign="top">
 
-**01**
+## EMBASSY
 
-### BIS IDEATHON
+### The policy layer between an AI agent and the real world.
 
-# 1ST PLACE
+Autonomous agents shouldn't blindly execute every action.
 
-</td>
+**Embassy** introduces a policy and risk layer that evaluates actions before execution.
 
-<td width="25%" valign="top">
+<br>
 
-**02**
-
-### LOCUS PAYGENTIC
-
-# 2ND PLACE
-
-</td>
-
-<td width="25%" valign="top">
-
-**03**
-
-### ET GENAI
-
-# TOP 50 / 6,500+
-
-</td>
-
-<td width="25%" valign="top">
-
-**04**
-
-### FLIPKART GRID
-
-# TOP 5%
-
-</td>
-
-</tr>
-</table>
-
----
-
-# STACK
-
-`Python`　·　`C++`　·　`PyTorch`　·　`LLMs`　·　`RAG`　·　`FastAPI`　·　`Docker`　·　`AWS`　·　`SQL`
-
----
-
-<div align="center">
-
-[**GITHUB**](https://github.com/Akkshita06)　·　
-[**LINKEDIN**](https://www.linkedin.com/)　·　
-[**EMAIL**](mailto:your-email@example.com)
-
-<br><br>
-
-*AI FOR A MORE USEFUL TOMORROW*
-
-</div>
+```text
+┌──────────┐
+│   AGENT  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  POLICY  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│   RISK   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ APPROVAL │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ EXECUTE  │
+└──────────┘
