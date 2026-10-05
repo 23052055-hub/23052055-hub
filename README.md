@@ -1,82 +1,51 @@
 <div align="center">
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=7C3AED&customColorList=6,12,20&text=AKKSHITA%20ISA&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20ENGINEER%20%20%C2%B7%20%20AGENTIC%20AI%20%20%C2%B7%20%20ML%20SYSTEMS&descAlignY=62&descSize=15"/>
+
+<br>
+
 <a href="https://github.com/Akkshita06">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=AKKSHITA+ISA;AI+ENGINEER;AGENTIC+AI+%C2%B7+ML+SYSTEMS;BUILDING+USEFUL+INTELLIGENCE." />
-</a>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header"/>
-
-<br>
-
-### `BUILD` &nbsp;·&nbsp; `SOLVE` &nbsp;·&nbsp; `IMPACT`
-
-**Building AI systems that are useful, measurable, and reliable.**
-
-<br>
-
-<a href="#selected-work">
-<img src="https://img.shields.io/badge/EXPLORE_WORK-7C3AED?style=for-the-badge&labelColor=111827"/>
-</a>
-
-<a href="#contact">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-06B6D4?style=for-the-badge&labelColor=111827"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=BUILDING+USEFUL+INTELLIGENCE.;DESIGNING+RELIABLE+AI+SYSTEMS.;AGENTS+THAT+REASON%2C+ACT+%26+VERIFY.;AI+FOR+A+MORE+USEFUL+TOMORROW." />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Akkshita06&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/FOCUS-AGENTIC_AI-06B6D4?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-F97316?style=for-the-badge&labelColor=111827"/>
 
-</div>
+<br><br>
+
+`BUILD`　·　`SOLVE`　·　`IMPACT`
+
+<br>
 
 ---
 
-<div align="center">
-
-## ✦ AI / AGENTS / SYSTEMS / IMPACT ✦
+## ✦ I BUILD SYSTEMS, NOT JUST MODELS
 
 </div>
 
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 # Hello, I'm Akkshita.
 
-I build systems where **AI doesn't just generate — it reasons, retrieves, decides, acts, and verifies.**
+I'm an AI engineer interested in building systems where artificial intelligence can **reason, retrieve context, make decisions, execute actions, and verify results.**
 
-My work lives at the intersection of:
-
-`AGENTIC AI`  
-`LLM SYSTEMS`  
-`MACHINE LEARNING`  
-`COMPUTER VISION`  
-`AI INFRASTRUCTURE`
-
-<br>
-
-> **The goal isn't to make AI impressive.**
->
-> **The goal is to make it useful.**
-
-</td>
-
-<td width="40%" valign="top">
-
-### `SYSTEM STATUS`
-
-🟢 **ONLINE**
+My work sits at the intersection of:
 
 ```text
-┌─────────────────────┐
-│  AI ENGINEERING     │
-│                     │
-│  AGENTS      █████  │
-│  LLMs        █████  │
-│  ML          ████░  │
-│  SYSTEMS     █████  │
-│                     │
-│  STATUS: BUILDING   │
-└─────────────────────┘
+AGENTIC AI
+      +
+LLM SYSTEMS
+      +
+MACHINE LEARNING
+      +
+COMPUTER VISION
+      +
+AI INFRASTRUCTURE
